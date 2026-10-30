@@ -1,0 +1,7 @@
+title: Handvoll
+lang: de
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+exclude: [README.md, sync.sh]
