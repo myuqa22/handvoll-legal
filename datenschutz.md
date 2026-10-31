@@ -46,8 +46,8 @@ Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art
 Verantwortlich für den Datenschutz:
 
 Gerwin Lukman
-[Straße und Hausnummer]
-[PLZ Ort]
+Lindnersweg 10
+22083 Hamburg
 E-Mail: gerwin.lukman@icloud.com
 
 ## Hinweis zu dieser Webseite
